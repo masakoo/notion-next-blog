@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Stimw Blog',
-  author: 'Stimw',
+  title: 'sample Blog',
+  author: 'DemoUser',
   email: 'stimwblog@gmail.com',
   // ↓ THIS BLOG LINK, NOT YOUR SOCIAL LINK ↓
   link: 'https://notion-next-blog-olive.vercel.app', // do not end with '/'
